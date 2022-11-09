@@ -1,4 +1,4 @@
-# Currenct-Converter
+# Currency-Converter
 A simple currency converter using public API to fetch the lastest currency. </br>
 Created with HTML, CSS, and JavaScript.
 
